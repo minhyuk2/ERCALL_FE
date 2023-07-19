@@ -1,0 +1,59 @@
+[
+    {
+        "emerg": "assets/images/red.png",
+        "location": "서울시 용산구 용산로 가길 20 203동 2003호",
+        "distance": "10km",
+        "time": "2023-07-17 22:00:00.000"
+
+    },
+    {
+        "emerg": "assets/images/green.png",
+        "location": "서울시 용산구 용산로 나길 20 203동 2003호",
+        "distance": "5km",
+        "time": "2023-07-17 22:00:00.000"
+
+    },
+    {
+        "emerg": "assets/images/yellow.png",
+        "location": "서울시 광진구 능동로 20가길 2",
+        "distance": "4km",
+        "time": "2023-07-17 22:00:00.000"
+
+    },
+     {
+        "emerg": "assets/images/green.png",
+        "location": "서울시 광진구 광장동 현대2차아파트 102동 1003호",
+        "distance": "20km",
+        "time": "2023-07-17 22:00:00.000"
+
+    },
+    {
+        "emerg": "assets/images/green.png",
+        "location": "서울시 용산구 용산로 나길 20 203동 2003호",
+        "distance": "50km",
+        "time": "2023-07-17 22:00:00.000"
+
+    },
+    {
+        "emerg": "assets/images/red.png",
+        "location": "서울시 동작구 동작동 다길 3",
+        "distance": "5km",
+        "time": "2023-07-17 22:00:00.000"
+
+    },
+    {
+        "emerg": "assets/images/yellow.png",
+        "location": "서울시 용산구 용산로 나길 10 203동 2002호",
+        "distance": "15km",
+        "time": "2023-07-17 22:00:00.000"
+
+    },
+    {
+        "emerg": "assets/images/green.png",
+        "location": "서울시 광진구 중곡동 바길 10 203동 2002호",
+        "distance": "30km",
+        "time": "2023-07-17 22:00:00.000"
+
+    }
+
+]
